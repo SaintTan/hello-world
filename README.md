@@ -3,10 +3,12 @@
 This is the python instruction and codes for data-mining, data-preprocessing, and machine learning, while using package like numpy, pandas, scikit-learn, matplotlib, latex.
 
 ## numpy
+***
 > + import numpy as np
 > + import numpy.linalg as LA
 ***
 ## pandas
+***
 > + import pandas as pd
 > + how to get multi-index element
 ```python
@@ -20,6 +22,7 @@ train_E_set = pd.DataFrame(np.zeros((len(index),k1+k2)), index=index)
 ```
 ***
 ## scikit-learn
+***
 > + from sklearn.decomposition import TruncatedSVD
 > + from sklearn import preprocessing
 > + from sklearn.decomposition import NMF
@@ -30,10 +33,13 @@ train_E_set = pd.DataFrame(np.zeros((len(index),k1+k2)), index=index)
 
 ***
 ## networkx
+***
 > + import networkx as nx
 ***
 ## matplotlib
+***
 > + import matplotlib.pyplot as plt
 ***
 ## latex
+***
 > + \usepackage{graphicx}
